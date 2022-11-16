@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoSql_Inlamning", "NoSql_Inlamning\NoSql_Inlamning.csproj", "{61D8F18C-6A9B-4792-86E3-C2BF96721C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D8F18C-6A9B-4792-86E3-C2BF96721C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D8F18C-6A9B-4792-86E3-C2BF96721C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D8F18C-6A9B-4792-86E3-C2BF96721C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D8F18C-6A9B-4792-86E3-C2BF96721C09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E510A20D-AB62-47B9-A209-B2DBF43396FF}
+	EndGlobalSection
+EndGlobal
